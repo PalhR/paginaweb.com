@@ -1,0 +1,29 @@
+body {
+    background-image: url('Arboleda.JPG');
+    background-size: cover;
+    background-position: center;
+}
+h1 {  
+    color: rgb(66, 118, 23); 
+    background-color: #add68a;
+    text-align: center; 
+    padding: 1em 0; 
+    }
+    table, th, td {
+        border: 3px solid rgba(24, 128, 79, 0.533); 
+        border-collapse: collapse; 
+        color:honeydew;
+        padding: 10px; 
+        text-align: center;  
+    }
+    th { 
+        background-color: #22985d; 
+        }
+    td {
+        background-color: #20a06b; 
+    }   
+h3 {
+    color: honeydew;
+    background-color: #22985d;
+    padding: 10px;
+}      

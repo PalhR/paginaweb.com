@@ -1,0 +1,60 @@
+body {
+    background-image: url('vertical.jpg');
+    background-size: cover;
+    background-position: center;
+}
+h3 { 
+color:antiquewhite;
+}
+h4 {
+    color:antiquewhite;
+}
+ ul {
+    color:antiquewhite
+ }
+ol{
+    color:antiquewhite
+}
+dl{
+    color:aliceblue
+}
+p{
+    color:gainsboro
+}
+a {
+    outline: none;
+    text-decoration: none;
+    display: inline-block;
+    width: 20%;
+    margin-right: 1.5%;
+    text-align: center;
+    line-height: 3;
+    color: rgba(rgb(55, 94, 194), blue, alpha);
+    font-size: 20px;
+}
+
+li:last-child a {
+    margin-right: 4;
+}
+
+li {
+    display:list-item ;
+}
+
+a:link,
+a:visited,
+a:focus {
+    background: rgb(rgb(44, 82, 233), green, blue)
+}
+
+a:hover {
+    background: rgba(rgb(47, 20, 222), green, blue, alpha)
+    color: rgb(35, 114, 232)
+}
+
+a:active {
+    background: rgba(rgb(35, 114, 232), green, blue, alpha);
+    color: rgb(rgb(45, 66, 247), green, blue);
+    text-decoration: solid;
+
+}

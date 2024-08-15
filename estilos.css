@@ -1,0 +1,11 @@
+body {
+    background-image: url('vector.jpg');
+    background-size: cover;
+    background-position: center;
+}
+h1, h2 {
+    color:darkslategrey
+}
+h4, h3, ul, dd{
+    color:darkslategray
+}
